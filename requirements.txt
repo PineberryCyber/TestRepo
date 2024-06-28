@@ -6,3 +6,7 @@ Video call
 Text SMS
 DARK MODE
 LIGHT MODE
+
+Below are the changes will commit in feature branch
+Feature 1
+Feature 2
