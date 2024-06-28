@@ -4,3 +4,5 @@ Emoji
 Typing
 Video call
 Text SMS
+DARK MODE
+LIGHT MODE
