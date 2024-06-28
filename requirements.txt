@@ -1,0 +1,6 @@
+This is a chat application
+Features:
+Emoji
+Typing
+Video call
+Text SMS
